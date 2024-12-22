@@ -32,7 +32,7 @@ const Header = () => {
                 <li className="nav-li" >
                   <NavLink title="features" />
                   <div className="dot" />
-                  <NavLink title="Pricing" />
+                  <NavLink title="pricing" />
                 </li>
                 <li className="nav-logo" >
                   <LinkScroll to="hero" offset={-250} spy smooth className={clsx("max-lg:hidden transition-transform duration-500 cursor-pointer")}>

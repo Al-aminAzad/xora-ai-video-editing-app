@@ -40,7 +40,7 @@ const Header = () => {
                   </LinkScroll>
                 </li>
                 <li className="nav-li" >
-                  <NavLink title="Faq" />
+                  <NavLink title="faq" />
                   <div className="dot" />
                   <NavLink title="Download" />
                 </li>
